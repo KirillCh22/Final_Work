@@ -23,3 +23,6 @@
 ![Task4](https://github.com/user-attachments/assets/aed4859e-848c-41cd-bf55-192d1bdf83a1)
 
 #### 5. Выложить [историю команд](https://github.com/KirillCh22/Final_Work/blob/main/history_commands_terminal.md) в терминале ubuntu
+
+#### 6. Нарисовать [диаграмму](https://github.com/KirillCh22/Final_Work/blob/main/Diagram_Task6.drawio), в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: Лошади, верблюды и ослы).
+![Diagram_Task6](https://github.com/user-attachments/assets/1d384af4-10ac-4254-be07-1275953b54bd)
