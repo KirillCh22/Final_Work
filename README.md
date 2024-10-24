@@ -21,3 +21,5 @@
 
 #### 4. Установить и удалить deb-пакет с помощью dpkg.
 ![Task4](https://github.com/user-attachments/assets/aed4859e-848c-41cd-bf55-192d1bdf83a1)
+
+#### 5. Выложить [историю команд](https://github.com/KirillCh22/Final_Work/blob/main/history_commands_terminal.md) в терминале ubuntu
